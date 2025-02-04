@@ -1,7 +1,5 @@
 # AZ-204: Desenvolvimento de soluções para o Microsoft Azure
 
-**As instruções do laboratório, o código para download e a VM foram atualizados em 5/8/2022 para o .NET 6. Estamos monitorando problemas relacionados a esta atualização e estamos trabalhando com nossos provedores de hospedagem de laboratório para tentar resolver quaisquer problemas o mais rápido possível.**
-
 > **Observação**: os alunos devem ser orientados a sincronizar o repositório se não receberem os AllFiles por meio do provedor de hospedagem de laboratório. 
 
 - **Encaminhe os alunos** para [https://aka.ms/az204labs](https://aka.ms/az204labs) para obter uma lista fácil de usar de instruções de laboratório.
